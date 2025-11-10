@@ -63,7 +63,7 @@ export default function HomePage() {
             </section>
 
             {/* Image Section */}
-            <section className="relative h-[400px] lg:h-[500px]">
+            <section className="relative overflow-hidden py-10 sm:py-12">
                 <Image
                     src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=80"
                     alt="Yacht Week guests enjoying sunset"
@@ -73,7 +73,7 @@ export default function HomePage() {
                 />
                 <div className="absolute inset-0 bg-navy-900/40" />
                 {/* Booking overlay on image */}
-                <div className="absolute inset-0 z-10 flex items-center">
+                <div className="relative z-10 md:flex md:items-center md:min-h-[380px]">
                     <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                         <div className="mb-4 lg:mb-6">
                             <h2 className="text-4xl lg:text-5xl font-bold text-white text-center">
