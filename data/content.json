@@ -1,0 +1,295 @@
+{
+  "site": {
+    "name": "The Yacht Week",
+    "tagline": "Sail. Party. Explore."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "howItWorks": "How It Works",
+    "prices": "Prices"
+  },
+  "home": {
+    "hero": {
+      "title": "Your Week of a Lifetime",
+      "subtitle": "Join thousands of adventurers sailing the world's most beautiful waters",
+      "cta": "Book Your Week",
+      "ctaSecondary": "Explore Destinations"
+    },
+    "sellingPoints": {
+      "title": "Why Choose The Yacht Week",
+      "points": [
+        {
+          "title": "Exclusive Destinations",
+          "description": "Sail to stunning locations across the Mediterranean, Caribbean, and beyond"
+        },
+        {
+          "title": "Vibrant Community",
+          "description": "Connect with like-minded travelers and create friendships that last a lifetime"
+        },
+        {
+          "title": "Unforgettable Events",
+          "description": "Experience legendary parties, beach clubs, and exclusive events"
+        },
+        {
+          "title": "Premium Experience",
+          "description": "Luxury yachts, professional crews, and seamless organization"
+        }
+      ]
+    },
+    "ctaSection": {
+      "title": "Ready to Set Sail?",
+      "description": "Join the adventure of a lifetime. Book your week today.",
+      "cta": "View Prices & Book"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About Us | The Yacht Week",
+      "description": "Discover the story behind The Yacht Week and our mission to create unforgettable sailing adventures."
+    },
+    "hero": {
+      "title": "Our Story",
+      "subtitle": "Creating unforgettable experiences on the water since 2006"
+    },
+    "story": {
+      "title": "How It All Began",
+      "content": [
+        "The Yacht Week started with a simple idea: combine the freedom of sailing with the energy of a festival. What began as a small group of friends exploring the Croatian coast has grown into a global community of adventurers.",
+        "Today, we host thousands of guests each year across multiple destinations, from the crystal-clear waters of the Mediterranean to the tropical paradise of the Caribbean. Our mission remains the same: to create the most incredible week of your life.",
+        "We believe in authentic experiences, genuine connections, and the magic that happens when you combine sailing, adventure, and community. Every week is carefully curated to ensure you have the time of your life."
+      ]
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To create unforgettable sailing adventures that bring people together, celebrate life, and inspire a sense of freedom and adventure. We're not just a travel company—we're a movement."
+    },
+    "vibe": {
+      "title": "The Yacht Week Vibe",
+      "content": "Imagine waking up to crystal-clear waters, spending your days exploring hidden coves and vibrant ports, and your nights dancing under the stars. That's The Yacht Week. It's adventure meets luxury, freedom meets community, and every moment is designed to be extraordinary.",
+      "imageAlt": "Yacht Week guests enjoying sunset on deck"
+    },
+    "keyFacts": {
+      "title": "By The Numbers",
+      "facts": [
+        {
+          "number": "15+",
+          "label": "Destinations"
+        },
+        {
+          "number": "18",
+          "label": "Years of Experience"
+        },
+        {
+          "number": "50,000+",
+          "label": "Happy Guests"
+        },
+        {
+          "number": "500+",
+          "label": "Events Per Year"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Join the Adventure",
+      "link": "/prices"
+    }
+  },
+  "howItWorks": {
+    "meta": {
+      "title": "How It Works | The Yacht Week",
+      "description": "Learn how to book your Yacht Week adventure. Simple steps from choosing your destination to setting sail."
+    },
+    "hero": {
+      "title": "How It Works",
+      "subtitle": "Your journey from booking to sailing in simple steps"
+    },
+    "bookingSteps": {
+      "title": "Booking Process",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Choose Your Destination",
+          "description": "Select from our stunning destinations across the Mediterranean, Caribbean, and beyond. Each location offers unique experiences and breathtaking scenery."
+        },
+        {
+          "number": "2",
+          "title": "Pick Your Package",
+          "description": "Choose the package that suits you—from standard cabins to premium suites. All packages include your yacht, crew, and access to all events."
+        },
+        {
+          "number": "3",
+          "title": "Book Your Spot",
+          "description": "Secure your place with a deposit. Our team will confirm your booking and send you all the details you need to prepare for your adventure."
+        },
+        {
+          "number": "4",
+          "title": "Get Ready to Sail",
+          "description": "Receive your welcome pack, connect with your crew and fellow guests, and get ready for the week of a lifetime."
+        },
+        {
+          "number": "5",
+          "title": "Set Sail & Explore",
+          "description": "Arrive at your destination, meet your crew, and embark on an unforgettable week of sailing, exploring, and celebrating."
+        }
+      ]
+    },
+    "weekOverview": {
+      "title": "What Your Week Looks Like",
+      "description": "Every Yacht Week is unique, but here's what you can expect:",
+      "highlights": [
+        {
+          "day": "Day 1",
+          "title": "Welcome & Departure",
+          "description": "Meet your crew and fellow guests, stock up on supplies, and set sail to your first destination."
+        },
+        {
+          "day": "Days 2-6",
+          "title": "Sailing & Exploring",
+          "description": "Sail between stunning locations, anchor in hidden coves, explore local towns, and enjoy beach parties and exclusive events."
+        },
+        {
+          "day": "Day 7",
+          "title": "Final Celebration",
+          "description": "Return to port for a final celebration, share stories with new friends, and plan your next adventure."
+        }
+      ]
+    },
+    "options": {
+      "title": "Available Options",
+      "description": "Customize your experience with our range of options:",
+      "items": [
+        {
+          "title": "Yacht Types",
+          "description": "Choose from monohulls, catamarans, and luxury yachts. All yachts are fully equipped and professionally maintained."
+        },
+        {
+          "title": "Cabin Options",
+          "description": "Select from standard shared cabins, private cabins, or premium suites. All accommodations are comfortable and well-appointed."
+        },
+        {
+          "title": "Add-Ons",
+          "description": "Enhance your experience with extras like premium food packages, water sports equipment, or private chef services."
+        },
+        {
+          "title": "Group Bookings",
+          "description": "Book an entire yacht for your group of friends, family, or colleagues. Perfect for special occasions and celebrations."
+        }
+      ]
+    },
+    "cta": {
+      "text": "View Pricing & Packages",
+      "link": "/prices"
+    }
+  },
+  "prices": {
+    "meta": {
+      "title": "Prices & Packages | The Yacht Week",
+      "description": "Transparent pricing for all Yacht Week packages. Choose the perfect option for your adventure."
+    },
+    "hero": {
+      "title": "Pricing & Packages",
+      "subtitle": "Choose the perfect package for your adventure"
+    },
+    "intro": {
+      "text": "All prices are per person and include your yacht accommodation, professional crew, access to all events, and much more. Additional add-ons available to customize your experience."
+    },
+    "packages": [
+      {
+        "name": "Standard",
+        "price": "€599",
+        "period": "per person",
+        "description": "Perfect for budget-conscious travelers",
+        "features": [
+          "Shared cabin accommodation",
+          "Professional crew",
+          "Access to all events",
+          "Yacht facilities",
+          "Welcome pack"
+        ],
+        "popular": false
+      },
+      {
+        "name": "Premium",
+        "price": "€899",
+        "period": "per person",
+        "description": "Enhanced comfort and amenities",
+        "features": [
+          "Private cabin",
+          "Professional crew",
+          "Access to all events",
+          "Premium yacht facilities",
+          "Welcome pack with extras",
+          "Priority event access"
+        ],
+        "popular": true
+      },
+      {
+        "name": "Luxury",
+        "price": "€1,299",
+        "period": "per person",
+        "description": "Ultimate luxury experience",
+        "features": [
+          "Premium suite accommodation",
+          "Professional crew",
+          "Access to all events",
+          "Luxury yacht facilities",
+          "Premium welcome pack",
+          "Priority event access",
+          "Complimentary drinks",
+          "Private chef option"
+        ],
+        "popular": false
+      }
+    ],
+    "addOns": {
+      "title": "Add-Ons & Extras",
+      "description": "Enhance your experience with these optional extras:",
+      "items": [
+        {
+          "name": "Premium Food Package",
+          "price": "€150",
+          "description": "Curated meals prepared by professional chefs"
+        },
+        {
+          "name": "Water Sports Package",
+          "price": "€200",
+          "description": "Kayaks, paddleboards, and snorkeling equipment"
+        },
+        {
+          "name": "Private Chef",
+          "price": "€500",
+          "description": "Dedicated chef for your yacht (group booking)"
+        },
+        {
+          "name": "Airport Transfer",
+          "price": "€50",
+          "description": "Round-trip transfer from airport to marina"
+        }
+      ]
+    },
+    "transparency": {
+      "text": "All prices are transparent with no hidden fees. Final payment is due 60 days before departure. Cancellation policies and payment plans available."
+    },
+    "cta": {
+      "text": "Book Your Week",
+      "link": "#"
+    }
+  },
+  "footer": {
+    "links": {
+      "about": "About",
+      "howItWorks": "How It Works",
+      "prices": "Prices",
+      "contact": "Contact",
+      "faq": "FAQ"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "twitter": "Twitter"
+    },
+    "copyright": "© 2024 The Yacht Week. All rights reserved."
+  }
+}
+

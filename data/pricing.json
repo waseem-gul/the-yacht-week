@@ -1,0 +1,87 @@
+{
+  "packages": [
+    {
+      "id": "standard",
+      "name": "Standard",
+      "price": 599,
+      "currency": "EUR",
+      "period": "per person",
+      "description": "Perfect for budget-conscious travelers",
+      "features": [
+        "Shared cabin accommodation",
+        "Professional crew",
+        "Access to all events",
+        "Yacht facilities",
+        "Welcome pack"
+      ],
+      "popular": false
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": 899,
+      "currency": "EUR",
+      "period": "per person",
+      "description": "Enhanced comfort and amenities",
+      "features": [
+        "Private cabin",
+        "Professional crew",
+        "Access to all events",
+        "Premium yacht facilities",
+        "Welcome pack with extras",
+        "Priority event access"
+      ],
+      "popular": true
+    },
+    {
+      "id": "luxury",
+      "name": "Luxury",
+      "price": 1299,
+      "currency": "EUR",
+      "period": "per person",
+      "description": "Ultimate luxury experience",
+      "features": [
+        "Premium suite accommodation",
+        "Professional crew",
+        "Access to all events",
+        "Luxury yacht facilities",
+        "Premium welcome pack",
+        "Priority event access",
+        "Complimentary drinks",
+        "Private chef option"
+      ],
+      "popular": false
+    }
+  ],
+  "addOns": [
+    {
+      "id": "food-package",
+      "name": "Premium Food Package",
+      "price": 150,
+      "currency": "EUR",
+      "description": "Curated meals prepared by professional chefs"
+    },
+    {
+      "id": "water-sports",
+      "name": "Water Sports Package",
+      "price": 200,
+      "currency": "EUR",
+      "description": "Kayaks, paddleboards, and snorkeling equipment"
+    },
+    {
+      "id": "private-chef",
+      "name": "Private Chef",
+      "price": 500,
+      "currency": "EUR",
+      "description": "Dedicated chef for your yacht (group booking)"
+    },
+    {
+      "id": "airport-transfer",
+      "name": "Airport Transfer",
+      "price": 50,
+      "currency": "EUR",
+      "description": "Round-trip transfer from airport to marina"
+    }
+  ]
+}
+
